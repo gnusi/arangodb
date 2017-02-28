@@ -1,3 +1,9 @@
+v3.3.alpha3 (20??-??-??)
+------------------------
+
+* allow passing own `graphql-sync` module instance to Foxx GraphQL router
+
+
 v3.2.alpha2 (2017-02-20)
 ------------------------
 
