@@ -1,4 +1,4 @@
-v3.3.alpha3 (20??-??-??)
+v3.2.alpha3 (XXXX-XX-XX)
 ------------------------
 
 * allow passing own `graphql-sync` module instance to Foxx GraphQL router
@@ -69,6 +69,8 @@ v3.2.alpha1 (2017-02-05)
 * changed index filling to make it more parallel, dispatch tasks to boost::asio
 
 * more detailed stacktraces in Foxx apps
+
+* generated Foxx services now use swagger tags
 
 
 v3.1.11 (2017-02-14)
